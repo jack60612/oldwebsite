@@ -18,8 +18,8 @@ title: My profoilo And Resume
 email: jack@jacknelson.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   All of my projects, achievements, and qualifications. 
-baseurl: "/website" # the subpath of your site, e.g. /blog
-url: "https://jack60612.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jacknelson.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jack60612
 
